@@ -1,5 +1,4 @@
-1. [] - Add `youtube_player_flutter` dependency
-2. [] - Get a YouTube API key
-3. [] - Create a basic UI with the `YoutubePlayer` widget
-4. [] - Implement video loading using a YouTube video ID
-5. [] - Customize the player controls
+1. [x] - Add `youtube_player_flutter` dependency (v9.1.3)
+2. [x] - Create a basic UI with the `YoutubePlayer` widget
+3. [x] - Implement video loading using a YouTube video ID
+4. [x] - Customize the player controls
